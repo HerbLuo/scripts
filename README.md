@@ -1,4 +1,3 @@
-# scripts
 
 ### `zz-auto-start.sh`
 
